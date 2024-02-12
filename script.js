@@ -1,4 +1,3 @@
-require("dotenv").config()
 document.addEventListener('DOMContentLoaded', function() {
     const amount = document.getElementById('amount');
     const Currency = document.getElementById('Currency');
